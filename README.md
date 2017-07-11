@@ -1,2 +1,3 @@
 # EXAMPLEs
-Material for reference. Examples of work.
+Repository created just for reference purposes only.
+
